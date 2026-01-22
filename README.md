@@ -35,9 +35,27 @@ vercel login
 vercel
 ```
 
+## Structure
+
+```
+landing-page/
+├── app/
+│   ├── globals.css    # Styles + couleurs HVC
+│   ├── layout.tsx     # Layout + SEO
+│   └── page.tsx       # Landing page complete
+├── tailwind.config.ts # Config Tailwind + couleurs custom
+├── next.config.js
+└── package.json
+```
+
 ## Branding HVC
 
 | Element | Valeur |
 |---------|--------|
 | Couleur primaire | `#1a1a2e` (bleu fonce) |
 | Couleur accent | `#d4af37` (or) |
+
+## URLs
+
+- Formation gratuite: `https://www.community.highvaluecapital.club/invitation?code=E573F8#landing-page`
+- Formation premium: `https://www.community.highvaluecapital.club/invitation?code=567G8G&price=oneTime#checkout`

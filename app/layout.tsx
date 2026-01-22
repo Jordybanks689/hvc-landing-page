@@ -4,7 +4,7 @@ import './globals.css'
 export const metadata: Metadata = {
   title: 'High Value Capital | Formation Trading Forex',
   description: 'Rejoins une communaute de traders francophones qui passent leurs challenges propfirm et generent des payouts reels. 7+ Funded Traders, 20k$+ de payouts documentes.',
-  keywords: 'trading, forex, formation, propfirm, funded trader, ARD, liquidite',
+  keywords: 'trading, forex, formation, propfirm, funded trader, ARD, ICT, SMC, liquidite',
   authors: [{ name: 'Jordy Banks' }],
   openGraph: {
     title: 'High Value Capital | Formation Trading Forex',
